@@ -1,0 +1,23 @@
+{
+  "name": "simpleredirect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekiriche/SimpleRedirect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekiriche/SimpleRedirect/issues"
+  },
+  "homepage": "https://github.com/ekiriche/SimpleRedirect#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
